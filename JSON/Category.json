@@ -4,34 +4,39 @@
     "result":
     [
         {
-            "id": "1",
-            "imgUrl":"https://cdn.jsdelivr.net/gh/XMJForever/-forever@main/Images/分类.png",
-             "hrefUrl": "https://cdn.jsdelivr.net/gh/XMJForever/-forever@main/Childen.json",
-            "type":"1"
+            "id": "1001",
+            "name":"分类",
+            "picture":"https://cdn.jsdelivr.net/gh/XMJForever/-forever@main/Images/分类.png",
+             "children": "https://cdn.jsdelivr.net/gh/XMJForever/-forever@main/Childen.json",
+            "goods":"1"
         },
         {
-            "id": "2",
-            "imgUrl":"https://cdn.jsdelivr.net/gh/XMJForever/-forever@main/Images/排行.png",
-             "hrefUrl": "/detail/2",
-            "type":"1"
+            "id": "1002",
+            "name":"排行",
+            "picture":"https://cdn.jsdelivr.net/gh/XMJForever/-forever@main/Images/排行.png",
+             "children": "/detail/2",
+            "goods":"1"
         },
         {
-            "id": "3",
-            "imgUrl":"https://cdn.jsdelivr.net/gh/XMJForever/-forever@main/Images/书单.png",
-             "hrefUrl": "/detail/3",
-            "type":"1"
+            "id": "1003",
+            "name":"书单",
+            "picture":"https://cdn.jsdelivr.net/gh/XMJForever/-forever@main/Images/书单.png",
+             "children": "/detail/3",
+            "goods":"1"
         },
                 {
-            "id": "4",
-            "imgUrl":"https://cdn.jsdelivr.net/gh/XMJForever/-forever@main/Images/完结.png",
-             "hrefUrl": "/detail/4",
-            "type":"1"
+            "id": "1004",
+            "name":"完结",
+            "picture":"https://cdn.jsdelivr.net/gh/XMJForever/-forever@main/Images/完结.png",
+             "children": "/detail/4",
+            "goods":"1"
         },
                 {
-            "id": "5",
-            "imgUrl":"https://cdn.jsdelivr.net/gh/XMJForever/-forever@main/Images/热评.png",
-             "hrefUrl": "/detail/5",
-            "type":"1"
+            "id": "1005",
+            "name":"热评",
+            "picture":"https://cdn.jsdelivr.net/gh/XMJForever/-forever@main/Images/热评.png",
+             "children": "/detail/5",
+            "goods":"1"
         }
     ]
 }
