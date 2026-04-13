@@ -1,0 +1,37 @@
+{
+    "code": "1",
+    "msg": "操作成功",
+    "result":
+    [
+        {
+            "id": "1",
+            "imgUrl":"https://cdn.jsdelivr.net/gh/XMJForever/-forever@main/Images/分类.png",
+             "hrefUrl": "https://cdn.jsdelivr.net/gh/XMJForever/-forever@main/Childen.json",
+            "type":"1"
+        },
+        {
+            "id": "2",
+            "imgUrl":"https://cdn.jsdelivr.net/gh/XMJForever/-forever@main/Images/排行.png",
+             "hrefUrl": "/detail/2",
+            "type":"1"
+        },
+        {
+            "id": "3",
+            "imgUrl":"https://cdn.jsdelivr.net/gh/XMJForever/-forever@main/Images/书单.png",
+             "hrefUrl": "/detail/3",
+            "type":"1"
+        },
+                {
+            "id": "4",
+            "imgUrl":"https://cdn.jsdelivr.net/gh/XMJForever/-forever@main/Images/完结.png",
+             "hrefUrl": "/detail/4",
+            "type":"1"
+        },
+                {
+            "id": "5",
+            "imgUrl":"https://cdn.jsdelivr.net/gh/XMJForever/-forever@main/Images/热评.png",
+             "hrefUrl": "/detail/5",
+            "type":"1"
+        }
+    ]
+}
