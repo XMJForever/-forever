@@ -1,0 +1,72 @@
+{
+    "code": "1",
+    "msg": "操作成功",
+    "result":
+    [
+        {
+            "id": "1",
+            "name":"分类",
+            "picture":"https://cdn.jsdelivr.net/gh/XMJForever/-forever@main/Images/分类.png",
+             "children": [
+                {
+                    "id": "1",
+                    "name":"玄幻",
+                    "picture":"https://cdn.jsdelivr.net/gh/XMJForever/-forever@main/Images/玄幻.png",
+                     "children":"null",
+                     "goods":"null"
+                },
+                {
+                    "id": "2",
+                    "name":"仙侠",
+                    "picture":"https://cdn.jsdelivr.net/gh/XMJForever/-forever@main/Images/仙侠.jpg",
+                     "children":"null",
+                     "goods":"null"
+                },
+                {
+                    "id": "3",
+                    "name":"武侠",
+                    "picture":"https://cdn.jsdelivr.net/gh/XMJForever/-forever@main/Images/武侠.png",
+                     "children":"null",
+                     "goods":"null"
+                },
+                {
+                    "id": "4",
+                    "name":"悬疑",
+                    "picture":"https://cdn.jsdelivr.net/gh/XMJForever/-forever@main/Images/悬疑.jpg",
+                     "children":"null",
+                     "goods":"null"
+                },
+                {
+                    "id": "5",
+                    "name":"历史",
+                    "picture":"https://cdn.jsdelivr.net/gh/XMJForever/-forever@main/Images/历史.png",
+                     "children":"null",
+                     "goods":"null"
+                },
+                {
+                    "id": "6",
+                    "name":"都市",
+                    "picture":"https://cdn.jsdelivr.net/gh/XMJForever/-forever@main/Images/都市.jpg",
+                     "children":"null",
+                     "goods":"null"
+                },
+                {
+                    "id": "7",
+                    "name":"科幻",
+                    "picture":"https://cdn.jsdelivr.net/gh/XMJForever/-forever@main/Images/科幻.png",
+                     "children":"null",
+                     "goods":"null"
+                },
+                 {
+                    "id": "8",
+                    "name":"言情",
+                    "picture":"https://cdn.jsdelivr.net/gh/XMJForever/-forever@main/Images/言情.jpg",
+                     "children":"null",
+                     "goods":"null"
+                }
+             ],
+             "goods":"null"
+        }
+       
+    ]
+}

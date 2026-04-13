@@ -1,0 +1,25 @@
+{
+    "code": "1",
+    "msg": "操作成功",
+    "result":
+    [
+        {
+            "id": "1",
+            "imgUrl":"https://cdn.jsdelivr.net/gh/XMJForever/-forever@main/Images/十日终焉.png",
+             "hrefUrl": "/detail/1",
+            "type":"1"
+        },
+        {
+            "id": "2",
+            "imgUrl":"https://cdn.jsdelivr.net/gh/XMJForever/-forever@main/Images/诡舍.png",
+             "hrefUrl": "/detail/2",
+            "type":"1"
+        },
+        {
+            "id": "3",
+            "imgUrl":"https://cdn.jsdelivr.net/gh/XMJForever/-forever@main/Images/斩神.png",
+             "hrefUrl": "/detail/3",
+            "type":"1"
+        }
+    ]
+}
